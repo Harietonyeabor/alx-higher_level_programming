@@ -1,4 +1,3 @@
-lines (42 sloc)  1.46 KB
 #!/usr/bin/python3
 """Define a class Square."""
 
